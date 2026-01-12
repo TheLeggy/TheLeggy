@@ -67,7 +67,7 @@ Visual debugging tools for precise screen positioning
 <font size="2">**Available As:**</font> <br>
 [Shared Mod Dependency](#) - Shared dependency for your projects *(coming soon)*
 <br>
-[Working Showcase](#) - Interactive demo on the Cherrier Vivace *(pending approval)*
+[Working Showcase](https://www.beamng.com/resources/screeninput-framework.36906/) - Interactive demo on the Cherrier Vivace
 
 **Tech:** <br>
 <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua" alt="Lua" style="vertical-align: middle;"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=303030" alt="JavaScript" style="vertical-align: middle;"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" style="vertical-align: middle;"/>
