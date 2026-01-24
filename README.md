@@ -47,9 +47,8 @@ Forced into learning: <br>
 
 <font size="4">**Check out:**</font>
 
-<table>
-<tr>
-<td width="50%" align="center">
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div style="width: 50%; max-width: 50%; text-align: center;">
 
 <font size="4">**[ScreenInput Framework](https://github.com/TheLeggy/BNG-ScreenInput-Framework)**</font>
 
@@ -74,8 +73,8 @@ Visual debugging tools for precise screen positioning
 
 <sub>Licensed under a custom MIT License. Please read it before using.</sub>
 
-</td>
-<td width="50%" align="center">
+</div>
+<div style="width: 50%; max-width: 50%; text-align: center;">
 
 <font size="4">**[Bvue](https://theleggy.github.io/bvue/)**</font>
 
@@ -97,9 +96,8 @@ Palette using cutting edge CSS
 
 <sub>No source available. Not licensed.</sub>
 
-</td>
-</tr>
-</table>
+</div>
+</div>
 
 </div>
 
