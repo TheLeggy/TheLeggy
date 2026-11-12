@@ -16,10 +16,10 @@
 <hr>
 
 <div align="center">
-  <p><font size="4"><b>Check out:</b></font></p>
+  <h4>Check out:</h4>
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
     <div style="width: 50%; max-width: 50%; text-align: center;">
-      <p><font size="5"><b><a href="https://theleggy.github.io/bvue/">Bvue</a></b></font></p>
+      <h3><a href="https://theleggy.github.io/bvue/">Bvue</a></h3>
       <p>Fun tech demo made in about an hour to showcase OKLCH.</p>
       <p>
         <b>Tech:</b><br>
