@@ -19,6 +19,16 @@
   <h4>Check out:</h4>
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
     <div style="width: 50%; max-width: 50%; text-align: center;">
+      <h3><a href="https://github.com/TheLeggy/FluidGlass">FluidGlass</a></h3>
+      <p>Apple's Liquid Glass for the web using WebGPU and HTML-in-Canvas.</p>
+      <p>
+        <b>Tech:</b><br>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" style="vertical-align: middle;"/>
+        <img src="https://img.shields.io/badge/WebGPU-005A9C?style=for-the-badge&logo=webgpu&logoColor=white" alt="WebGPU" style="vertical-align: middle;"/>
+      </p>
+      <p><sub>Work in progress.</sub></p>
+    </div>
+    <div style="width: 50%; max-width: 50%; text-align: center;">
       <h3><a href="https://theleggy.github.io/bvue/">Bvue</a></h3>
       <p>Fun tech demo made in about an hour to showcase OKLCH.</p>
       <p>
